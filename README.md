@@ -9,3 +9,23 @@ imagen del directorio del proyecto usando ls -la:
 imagen de la bienvenida de laravel:
 
 <img width="960" height="1034" alt="image" src="https://github.com/user-attachments/assets/62055ee2-f429-46b4-84f3-f22557171d2e" />
+
+imagen del comando list:
+
+comando: php artisan list
+
+<img width="869" height="1030" alt="image" src="https://github.com/user-attachments/assets/7a7600db-95d9-4526-b7ab-e5075f1ea34d" />
+
+imagen del help make:
+
+comando:  php artisan help make:controller
+
+<img width="957" height="803" alt="image" src="https://github.com/user-attachments/assets/7206146d-9c1a-444e-abff-1930553c2e30" />
+
+imagen del nuevo controlador prueba:
+
+<img width="959" height="400" alt="image" src="https://github.com/user-attachments/assets/42c8855f-79a7-4caf-94be-3b88085f7a49" />
+
+imagen de como hay dos controladores en la ruta de app/http/controllers:
+
+<img width="928" height="301" alt="image" src="https://github.com/user-attachments/assets/62bb011a-c025-4f03-bdc9-3909a823cef5" />
