@@ -37,3 +37,17 @@ diagrama de la peticion del laravale:
 imagen del welcome del laravel junto a la consola con los up y down mas el migrate:
 
 <img width="951" height="1003" alt="image" src="https://github.com/user-attachments/assets/08026a83-ed2c-484c-932c-b43496a78ec3" />
+
+imagen de los contenedores:
+
+<img width="1917" height="200" alt="image" src="https://github.com/user-attachments/assets/286023c6-3106-4fce-8918-8c9f2439b142" />
+
+imagen de el env modificado:
+
+<img width="661" height="988" alt="image" src="https://github.com/user-attachments/assets/964cc693-d58e-46a2-a00e-0b59d873573b" />
+
+imagen de la bienvenida modificada simple:
+
+<img width="951" height="837" alt="image" src="https://github.com/user-attachments/assets/12470e35-f271-42b6-b131-62eb3389e3dd" />
+
+
