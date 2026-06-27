@@ -1,58 +1,53 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+imagen de la version del php y del compose:
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<img width="745" height="334" alt="image" src="https://github.com/user-attachments/assets/fbee4c43-fed2-4cfd-a93d-f0827992e560" />
 
-## About Laravel
+imagen del directorio del proyecto usando ls -la:
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<img width="700" height="632" alt="image" src="https://github.com/user-attachments/assets/bd4bd43f-dd62-45d8-b6d2-1558a84aa3b1" />
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+imagen de la bienvenida de laravel:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<img width="960" height="1034" alt="image" src="https://github.com/user-attachments/assets/62055ee2-f429-46b4-84f3-f22557171d2e" />
 
-## Learning Laravel
+imagen del comando list:
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+comando: php artisan list
 
-In addition, [Laracasts](https://laracasts.com) contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<img width="869" height="1030" alt="image" src="https://github.com/user-attachments/assets/7a7600db-95d9-4526-b7ab-e5075f1ea34d" />
 
-You can also watch bite-sized lessons with real-world projects on [Laravel Learn](https://laravel.com/learn), where you will be guided through building a Laravel application from scratch while learning PHP fundamentals.
+imagen del help make:
 
-## Agentic Development
+comando:  php artisan help make:controller
 
-Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
+<img width="957" height="803" alt="image" src="https://github.com/user-attachments/assets/7206146d-9c1a-444e-abff-1930553c2e30" />
 
-```bash
-composer require laravel/boost --dev
+imagen del nuevo controlador prueba:
 
-php artisan boost:install
-```
+<img width="959" height="400" alt="image" src="https://github.com/user-attachments/assets/42c8855f-79a7-4caf-94be-3b88085f7a49" />
 
-Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
+imagen de como hay dos controladores en la ruta de app/http/controllers:
 
-## Contributing
+<img width="928" height="301" alt="image" src="https://github.com/user-attachments/assets/62bb011a-c025-4f03-bdc9-3909a823cef5" />
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+diagrama de la peticion del laravale:
 
-## Code of Conduct
+<img width="719" height="714" alt="image" src="https://github.com/user-attachments/assets/5614aa20-0bef-4bfa-bd18-17405b5b8816" />
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+imagen del welcome del laravel junto a la consola con los up y down mas el migrate:
 
-## Security Vulnerabilities
+<img width="951" height="1003" alt="image" src="https://github.com/user-attachments/assets/08026a83-ed2c-484c-932c-b43496a78ec3" />
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+imagen de los contenedores:
 
-## License
+<img width="1917" height="200" alt="image" src="https://github.com/user-attachments/assets/286023c6-3106-4fce-8918-8c9f2439b142" />
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+imagen de el env modificado:
+
+<img width="661" height="988" alt="image" src="https://github.com/user-attachments/assets/964cc693-d58e-46a2-a00e-0b59d873573b" />
+
+imagen de la bienvenida modificada simple:
+
+<img width="951" height="837" alt="image" src="https://github.com/user-attachments/assets/12470e35-f271-42b6-b131-62eb3389e3dd" />
+
+
