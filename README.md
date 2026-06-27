@@ -33,3 +33,7 @@ imagen de como hay dos controladores en la ruta de app/http/controllers:
 diagrama de la peticion del laravale:
 
 <img width="719" height="714" alt="image" src="https://github.com/user-attachments/assets/5614aa20-0bef-4bfa-bd18-17405b5b8816" />
+
+imagen del welcome del laravel junto a la consola con los up y down mas el migrate:
+
+<img width="951" height="1003" alt="image" src="https://github.com/user-attachments/assets/08026a83-ed2c-484c-932c-b43496a78ec3" />
