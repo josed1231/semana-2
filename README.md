@@ -29,3 +29,7 @@ imagen del nuevo controlador prueba:
 imagen de como hay dos controladores en la ruta de app/http/controllers:
 
 <img width="928" height="301" alt="image" src="https://github.com/user-attachments/assets/62bb011a-c025-4f03-bdc9-3909a823cef5" />
+
+diagrama de la peticion del laravale:
+
+<img width="719" height="714" alt="image" src="https://github.com/user-attachments/assets/5614aa20-0bef-4bfa-bd18-17405b5b8816" />
