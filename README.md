@@ -50,4 +50,16 @@ imagen de la bienvenida modificada simple:
 
 <img width="951" height="837" alt="image" src="https://github.com/user-attachments/assets/12470e35-f271-42b6-b131-62eb3389e3dd" />
 
+imagen de el index.blade.php funcionando:
 
+<img width="943" height="1028" alt="image" src="https://github.com/user-attachments/assets/a27f4c72-65cc-4cf0-83e2-4cfbdf6ee1cc" />
+
+imagen del cambio de color del index:
+
+<img width="959" height="1077" alt="image" src="https://github.com/user-attachments/assets/de4b129c-f1b0-485d-b939-5c76be4b6f20" />
+
+imagen de la cuarta tarjeta con el mes y de la parte con los correos de los ultimos usuarios:
+
+<img width="937" height="1030" alt="image" src="https://github.com/user-attachments/assets/64f20848-ba07-4cb8-8e84-c26f54c26cc4" />
+
+<img width="953" height="1078" alt="image" src="https://github.com/user-attachments/assets/9bbaf81e-733d-45bb-ace7-0134b18f33b7" />
